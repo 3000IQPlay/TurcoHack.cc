@@ -54,7 +54,6 @@ public class ModuleManager
 	modules.add(new HoleESP());
 	modules.add(new LogoutSpots());
 	modules.add(new NoRender());
-	modules.add(new PenisESP());
 	modules.add(new Skeleton());
 	modules.add(new SmallShield());
 	modules.add(new Trajectories());
@@ -70,7 +69,6 @@ public class ModuleManager
 	modules.add(new Scaffold());
 	modules.add(new Speed());
 	modules.add(new Step());
-	modules.add(new Velocity());
 	
 	//MISC
 	modules.add(new AutoGG());
